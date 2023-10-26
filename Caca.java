@@ -9,7 +9,7 @@ public class Caca {
 
     public void dimeperra(int p){
         puta=p;
-        System.out.println("Mi total de putas es de: " + puta);
+        System.out.println("El total de putas que se cargó dino es de: " + puta);
     }
 
 

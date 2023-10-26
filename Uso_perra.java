@@ -1,7 +1,7 @@
 public class Uso_perra {
 
 
-    public static void main(Sring[]args){
+    public static void main(String[] args){
 
         Caca c=new Caca();
 
